@@ -1,0 +1,13 @@
+#Binario
+*.dll
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+#Visual Studio
+.vs/
+x64/
+Debug/
+Release/
